@@ -18,5 +18,5 @@ public class Product {
 
     public String getName() { return name;}
 
-    public double Price() { return price;}
+    public double getPrice() { return price;}
 }

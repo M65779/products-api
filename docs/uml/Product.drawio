@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="aHwFnYgC9nLFJ7apUjFP">
+    <mxGraphModel dx="1414" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QPYL9esNTifprbh2t39r-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="260" width="470" x="170" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QPYL9esNTifprbh2t39r-3" edge="1" parent="1" source="QPYL9esNTifprbh2t39r-1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="QPYL9esNTifprbh2t39r-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="241.92000000000002" as="sourcePoint" />
+            <mxPoint x="570" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPYL9esNTifprbh2t39r-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Product" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QPYL9esNTifprbh2t39r-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="- id : Long&lt;div&gt;&amp;nbsp;- name : String&lt;/div&gt;&lt;div&gt;&amp;nbsp;-price : double&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="270" x="280" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QPYL9esNTifprbh2t39r-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="+ getId () :Long&lt;div&gt;&amp;nbsp;+ getName() : String&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;+getPrice () :double&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ Product ()&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ Product ( Long id, String name, double price)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="341" x="243" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QPYL9esNTifprbh2t39r-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endFill=0;entryX=1.002;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="310.92" as="sourcePoint" />
+            <mxPoint x="641" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
